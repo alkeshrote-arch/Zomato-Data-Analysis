@@ -9,56 +9,56 @@ This project performs Exploratory Data Analysis (EDA) on the Zomato Restaurant D
 
 🎯 Objectives
 
-Analyze restaurant information
-Identify popular cuisines
-Study restaurant ratings
-Explore pricing patterns
-Understand online ordering trends
+Analyze restaurant information,
+Identify popular cuisines,
+Study restaurant ratings,
+Explore pricing patterns,
+Understand online ordering trends.
 
 ---
 
 🛠️ Technologies Used
 
-Python
-Pandas
-Matplotlib
-Google Colab
-GitHub
+Python,
+Pandas,
+Matplotlib,
+Google Colab,
+GitHub.
 
 ---
 
 📂 Dataset
 
-Source: Kaggle
+Source: Kaggle,
 Dataset contains restaurant information including:
-Restaurant Name
-Ratings
-Votes
-Cuisines
-Restaurant Type
-Cost for Two
-Online Order
-Table Booking
+Restaurant Name,
+Ratings,
+Votes,
+Cuisines,
+Restaurant Type:
+Cost for Two,
+Online Order,
+Table Booking.
 
 ---
 
 📊 Exploratory Data Analysis
 
-✔ Dataset Overview
-✔ Missing Values
-✔ Data Types
-✔ Summary Statistics
-✔ Duplicate Removal
-✔ Data Cleaning
+✔ Dataset Overview,
+✔ Missing Values,
+✔ Data Types,
+✔ Summary Statistics,
+✔ Duplicate Removal,
+✔ Data Cleaning.
 
 ---
 
 📈 Visualizations
 
-Top Restaurant Types
-Top 10 Cuisines
-Online Order Availability
-Restaurant Rating Distribution
+Top Restaurant Types,
+Top 10 Cuisines,
+Online Order Availability,
+Restaurant Rating Distribution.
 
 ---
 
@@ -73,13 +73,13 @@ Restaurant ratings are influenced by multiple factors, not just price.
 
 🚀 Future Improvements
 
-Build Restaurant Recommendation System
-Predict Restaurant Ratings
-Create Interactive Dashboard using Power BI
+Build Restaurant Recommendation System,
+Predict Restaurant Ratings,
+Create Interactive Dashboard using Power BI.
 
 ---
 
 👨‍💻 Author
 
-Alkesh Rote
-Data Science Intern
+Alkesh Rote,
+Data Science Intern.
