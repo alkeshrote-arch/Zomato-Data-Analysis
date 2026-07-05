@@ -1,0 +1,108 @@
+Zomato Restaurant Data Analysis Report
+
+Prepared By: Alkesh Rote
+Internship: Data Science Internship
+Project: Exploratory Data Analysis (EDA) on Zomato Restaurant Dataset
+Tools Used: Python, Google Colab, Pandas, NumPy, Matplotlib, GitHub
+
+
+1. Project Objective
+
+The objective of this project is to perform Exploratory Data Analysis (EDA) on the Zomato Restaurant Dataset to understand restaurant trends, customer preferences, ratings, pricing, and online ordering behavior. The analysis aims to extract meaningful insights that can support data-driven business decisions for restaurants and food delivery platforms.
+
+
+2. Dataset Overview
+
+The dataset was obtained from Kaggle and contains information about restaurants listed on Zomato. It includes details such as restaurant names, cuisines, customer ratings, votes, restaurant types, pricing, online ordering availability, and locations.
+
+After cleaning the dataset:
+
+-Rows: 40,549
+-Columns: 11
+
+
+3. Data Preprocessing
+
+To prepare the dataset for analysis, the following preprocessing steps were performed:
+
+-Imported the dataset into Google Colab.
+-Examined dataset structure using shape, info(), and describe().
+-Identified missing values.
+-Removed duplicate records.
+-Removed unnecessary columns (address and phone).
+-Cleaned the rate column by converting ratings into numerical values.
+-Cleaned the approx_cost(for two people) column by removing commas and converting values into numeric format.
+
+These preprocessing steps improved data quality and ensured accurate analysis.
+
+
+4. Exploratory Data Analysis (EDA)
+
+Exploratory Data Analysis was conducted to identify patterns and trends within the dataset.
+
+The following analyses were performed:
+
+-Dataset overview
+-Missing value analysis
+-Data type inspection
+-Summary statistics
+-Restaurant type distribution
+-Cuisine popularity analysis
+-Online ordering analysis
+-Restaurant rating distribution
+
+
+5. Visualizations
+
+The following visualizations were created during the analysis:
+
+-Top Restaurant Types
+-Top 10 Most Popular Cuisines
+-Online Order Availability
+-Restaurant Rating Distribution
+
+These visualizations provide a clear understanding of customer preferences and restaurant characteristics.
+
+
+6. Key Findings
+
+The analysis revealed several important insights:
+
+-North Indian cuisine is the most popular cuisine among listed restaurants.
+-Most restaurants have ratings between 3.5 and 4.5, indicating generally good customer satisfaction.
+-A significant number of restaurants offer online ordering services, reflecting the growing demand for food delivery.
+-Restaurant prices vary considerably across different locations.
+-Higher restaurant prices do not necessarily result in higher customer ratings.
+
+
+7. Business Recommendations
+
+Based on the analysis, the following recommendations are suggested:
+
+-Focus marketing efforts on popular cuisines such as North Indian and Chinese.
+-Encourage restaurants to maintain high customer satisfaction to improve ratings.
+-Expand online ordering facilities to attract more customers.
+-Analyze customer preferences by location before expanding restaurant operations.
+-Balance pricing with food quality and customer service rather than relying solely on premium pricing.
+
+
+8. Conclusion
+
+This project successfully performed Exploratory Data Analysis on the Zomato Restaurant Dataset using Python. The analysis provided valuable insights into restaurant trends, customer behavior, pricing, and ratings. These findings can assist restaurant owners and food delivery platforms in making informed business decisions and improving customer experience. The project also demonstrates practical skills in data cleaning, data visualization, and business insight generation using Python.
+
+
+Technologies Used
+
+-Python
+-Google Colab
+-Pandas
+-NumPy
+-Matplotlib
+-GitHub
+
+
+Author
+
+Alkesh Rote
+
+Data Science Intern
